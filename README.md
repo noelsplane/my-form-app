@@ -18,9 +18,3 @@ npm start
 ```
 The app will open at [http://localhost:3000](http://localhost:3000)
 
-## Available Commands
-
-- `npm start` - Run development server
-- `npm test` - Run tests
-- `npm run build` - Build for production
-- `npm run eject` - Eject from Create React App (one-way operation)
